@@ -14,7 +14,7 @@ class ValidationClass:
 
 # main.py
 
-from utils import ValidationClass
+# from utils import ValidationClass
 
 def validate_template_syntax(subject, body_html):
     """Validate template subject and body_html building"""

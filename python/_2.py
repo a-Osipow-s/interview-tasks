@@ -1,3 +1,5 @@
+import time
+
 def repeat_decorator(n_times):
     """
     With params:
