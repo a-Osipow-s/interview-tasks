@@ -1,5 +1,3 @@
-# utils.py
-
 class ValidationClass:
 
     @staticmethod
@@ -9,12 +7,6 @@ class ValidationClass:
     @staticmethod
     def validate_jinja_syntax(body_html):
         """Do something"""
-
-
-
-# main.py
-
-# from utils import ValidationClass
 
 def validate_template_syntax(subject, body_html):
     """Validate template subject and body_html building"""
