@@ -45,3 +45,13 @@ Table Bonus
 | 4     | 2000  |
 | 5     | 900   |
 */
+
+
+/*
+1. Task: Write a solution to report the name and bonus amount of each employee with a bonus less than 900. Return the result table in any order.
+*/
+
+
+/*
+2. Task Write a solution to report the name and employee count of each supervisor. Return the result table in any order.
+*/
